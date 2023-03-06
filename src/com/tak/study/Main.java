@@ -37,8 +37,6 @@ public class Main {
         // 랜덤번호 출력
         System.out.println("* 로또번호 : " + Arrays.toString(lotto));
 
-
     }
-
 
 }
